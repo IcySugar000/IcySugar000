@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **IcySugar000/IcySugar000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+晚上好！这里是冰糖 =w=
+
+希望分享给你们有用的东西~
+
+但是我的 [博客](https://blog.millya.top/) 会更有意思！欢迎来玩
+
+发现我的学弟学妹如果想来要作业完全可以直接来找我（只要你找得到w），就不直接发在github啦
